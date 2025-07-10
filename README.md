@@ -11,7 +11,7 @@ This project presents a Face Mask Detection model built using Convolutional Neur
 ## 🧠 Model
 - Custom CNN with BatchNorm, Dropout, and ReduceLROnPlateau
 - Trained with categorical crossentropy
-- Accuracy: **97%** on internal test set
+- Accuracy: **98%** on internal test set
 
 ## 🚀 How to Run
 1. You can view and run the full notebook on Google Colab:https://colab.research.google.com/drive/1LQV5d-63BKa50-eTkwvwHBZfGphxpaVq#scrollTo=cnuRgquJqIza
